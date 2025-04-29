@@ -1,0 +1,42 @@
+.mainText{
+    font-size: 5em;
+    text-align: center;
+    font-family: bahnschrift;
+    margin-bottom: 0px;
+}
+.descText{
+    margin-top: 25px;
+    font-size: 3em;
+    text-align: center;
+    font-family: bahnschrift;
+}
+.subText{
+    font-size: 3.5em;
+    font-family: bahnschrift;
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-right-style: solid;
+    border-right-width: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.cases{
+    padding-left: 5%;
+    width: 150px;
+    height: 150px;
+    border: 10px;
+    padding-right: 5%;
+}
+.image-text{
+    border-style: solid;
+    border-width: 5px;
+    display: flex;
+    align-items: center;
+    gap: 0px;
+}
+.btn{
+    font-family: bahnschrift;
+    font-size: 2em;
+    margin-left: 7%;
+    padding: 10px;
+}
